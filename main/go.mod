@@ -1,5 +1,3 @@
-module git.npcompete.com/OSPSM_Servers/src/main
+module github.com/goutham146091/mini-project
 
-go 1.13
-
-require github.com/swaggo/echo-swagger v1.1.0
+go 1.23
